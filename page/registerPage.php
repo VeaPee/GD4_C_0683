@@ -17,7 +17,7 @@
     <body>
         <nav class="navbar navbar-dark bg-dark fixed-top">
             <div class="container">
-                <!-- Nama : nama panggilan kalian -->
+                <!-- Nama : Agung -->
                 <a class="navbar-brand fw-bold" href="/gd4_c_0683">PHP - Vincentius Agung Prabandaru</a>
             </div>
         </nav>
